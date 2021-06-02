@@ -1,0 +1,30 @@
+#lg{
+  background: #ebebeb;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+#lg h4{
+  font-size: 45px;
+}
+#lg h5{
+  font-size: 35px;
+}
+.tilt2:hover{
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+
+.w{
+  padding-top: 35px;
+
+}
+.w h4{
+  font-size: 25px;
+}
+.centred{
+  text-align: center;
+}
